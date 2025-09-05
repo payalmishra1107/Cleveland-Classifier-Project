@@ -1,0 +1,5 @@
+Model,Accuracy
+Hypersphere,1
+Bayes(student),0.561797752808989
+GaussianNB,0.561797752808989
+1-NN,0.573033707865168
